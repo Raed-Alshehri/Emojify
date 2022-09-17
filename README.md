@@ -3,7 +3,7 @@
 In this project, I'm going to use word vector representations to build an Emojifier. 
 🤩 💫 🔥
 
-It can make text messages semm more expressive.
+It can make text messages seem more expressive.
 
 Rather than writing:
 >"Congratulations on the promotion! Let's get coffee and talk. Love you!"   
