@@ -1,4 +1,4 @@
-# Emojify! 
+# Emojify! :collision: :fire: 
 
 In this project, I'm going to use word vector representations to build an Emojifier. 
 🤩 💫 🔥
@@ -1228,7 +1228,7 @@ Thanks to Alison Darcy and the Woebot team for their advice on the creation of t
 ```
 
 ## 🛠 Skills Used
-Python, Deep Learning, Optimization, Object Detection, YOLO algorithm, Non-maximum Suppression
+Python, Deep Learning, Optimization, Neural Networks, Long short-term memory (LSTM), Natural Language Processing (NLP)
 
 
 ## 🚀 About Me
